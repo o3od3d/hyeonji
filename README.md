@@ -9,7 +9,7 @@
 	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-E34F26?style=flat&logo=C&logoColor=white" />
 	
-	
+</div>	
 	🔧Tools🔧
 	<img src="https://img.shields.io/badge/visualstudiocode-007396?style=flat&logo=visualstudiocode&logoColor=white" />
 	
