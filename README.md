@@ -29,6 +29,6 @@
 	![o3od3d's GitHub stats](https://github-readme-stats.vercel.app/api?username=o3od3d&show_icons=true&theme=tokyonight)  
 </div>
 
-	🥇Backjoon solved rank🥇
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=o3od3d)](https://solved.ac/o3od3d)
+🥇Backjoon solved rank🥇
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=o3od3d)](https://solved.ac/o3od3d)
 
