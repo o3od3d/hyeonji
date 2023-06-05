@@ -4,14 +4,17 @@
 </DIV>
 
 <div align="center">
-	📕Languages📕</br>
+	📕Languages📕</br> 
+	</br>
 	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-E34F26?style=flat&logo=C&logoColor=white" />
+	
 	
 	🔧Tools🔧
 	<img src="https://img.shields.io/badge/visualstudiocode-007396?style=flat&logo=visualstudiocode&logoColor=white" />
 	
 	📫SNS📫
+	[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://hjtheory.tistory.com/)](https://hjtheory.tistory.com/) 
 </div>
 
 <div align="center">
