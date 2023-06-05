@@ -7,5 +7,9 @@
 	<img src="https://img.shields.io/badge/C-E34F26?style=flat&logo=C&logoColor=white" />
 </div>
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o3od3d&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=o3od3d&show_icons=true">
+</div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=o3od3d)](https://solved.ac/o3od3d)
