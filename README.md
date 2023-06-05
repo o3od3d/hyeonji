@@ -3,17 +3,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyeonji_Github&fontSize=90" />
 
 
-	📕Languages📕</br> 
-	</br>
-	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=python&logoColor=white" />
-	<img src="https://img.shields.io/badge/C-E34F26?style=flat&logo=C&logoColor=white" />
+📕Languages📕</br> 
+</br>
+<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-E34F26?style=flat&logo=C&logoColor=white" />
 
 </br></br>
 
-	🔧Tools🔧</br>
-	</br>
-	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-	<img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white" />
+🔧Tools🔧</br>
+</br>
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white" />
 
 </br></br>
 
