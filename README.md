@@ -21,7 +21,7 @@
 <div align="center">
 	📫SNS📫</br>
 	</br>
-	[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://hjtheory.tistory.com/)](https://hjtheory.tistory.com/) 
+	[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://geonlee.tistory.com/)](https://geonlee.tistory.com/) 
 </div>
 
 <div align="center">
