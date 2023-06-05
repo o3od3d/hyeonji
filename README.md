@@ -28,7 +28,7 @@
 	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o3od3d&layout=compact&theme=merko)
 	![o3od3d's GitHub stats](https://github-readme-stats.vercel.app/api?username=o3od3d&show_icons=true&theme=tokyonight)  
 </div>
-<div align="center">
+
 	🥇Backjoon solved rank🥇
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=o3od3d)](https://solved.ac/o3od3d)
-</div>
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=o3od3d)](https://solved.ac/o3od3d)<br/>
+
