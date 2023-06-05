@@ -4,14 +4,21 @@
 </DIV>
 
 <div align="center">
+	📕Languages📕
 	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-E34F26?style=flat&logo=C&logoColor=white" />
+	
+	🔧Tools🔧
+	<img src="https://img.shields.io/badge/Visual Studio Code-바탕색?style=flat&logo=Visual Studio Code&logoColor=white"/>
+	
+	📫SNS📫
 </div>
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o3od3d&layout=compact&theme=merko)
-![o3od3d's GitHub stats](https://github-readme-stats.vercel.app/api?username=o3od3d&show_icons=true&theme=tokyonight)  
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o3od3d&layout=compact&theme=merko)
+	![o3od3d's GitHub stats](https://github-readme-stats.vercel.app/api?username=o3od3d&show_icons=true&theme=tokyonight)  
 </div>
 <div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=o3od3d)](https://solved.ac/o3od3d)
+	🥇Backjoon solved rank🥇
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=o3od3d)](https://solved.ac/o3od3d)
 </div>
