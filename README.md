@@ -4,12 +4,12 @@
 </DIV>
 
 <div align="center">
-	📕Languages📕
+	📕Languages📕</br>
 	<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-E34F26?style=flat&logo=C&logoColor=white" />
 	
 	🔧Tools🔧
-	<img src="https://img.shields.io/badge/Visual Studio Code-바탕색?style=flat&logo=Visual Studio Code&logoColor=white"/>
+	<img src="https://img.shields.io/badge/VisualStudioCode-바탕색?style=flat&logo=VisualStudioCode&logoColor=white"/>
 	
 	📫SNS📫
 </div>
