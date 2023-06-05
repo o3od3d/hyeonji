@@ -30,5 +30,5 @@
 </div>
 
 	🥇Backjoon solved rank🥇
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=o3od3d)](https://solved.ac/o3od3d)<br/>
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=o3od3d)](https://solved.ac/o3od3d)
 
