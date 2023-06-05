@@ -1,6 +1,5 @@
-# 안녕하세요😀
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyeonji_Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi, I'm_Hyeonji_Github&fontSize=90" />
 
 
 # 📕Languages📕</br> 
