@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyeonji_Github&fontSize=90" />
 
 
-### 📕Languages📕</br> 
+# 📕Languages📕</br> 
 </br>
 <img src="https://img.shields.io/badge/Python-007396?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-E34F26?style=flat&logo=C&logoColor=white" />
